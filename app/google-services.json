@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637494955052",
+    "project_id": "northwind-final-95c63",
+    "storage_bucket": "northwind-final-95c63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637494955052:android:63ef549a613d483cb85589",
+        "android_client_info": {
+          "package_name": "losmugiwaras.a12firebaseaccess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH34fPou19Pj7hYsiwRUNJ3RDaa7DT-4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

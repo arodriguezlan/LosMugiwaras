@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="productosListView" type="id" />
+    <item name="subTotalTextView" type="id">subTotalTextView</item>
+    <item name="totalTextView" type="id">totalTextView</item>
+    <item name="agregarProductoButton" type="id">agregarProductoButton</item>
+    <item name="cancelarCompraButton" type="id">cancelarCompraButton</item>
+    <item name="aplicarCompraButton" type="id">aplicarCompraButton</item>
+    <item name="addToCartButton" type="id">addToCartButton</item>
+</resources>
